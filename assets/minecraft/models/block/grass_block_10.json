@@ -1,0 +1,6 @@
+{
+    "parent": "block/grass_block_template",
+    "textures": {
+        "grass_block_top": "block/grass_top10"
+    }
+}
