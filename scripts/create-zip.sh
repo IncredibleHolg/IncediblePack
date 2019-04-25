@@ -1,5 +1,7 @@
 #!/bin/bash
-DEST=HerrSommer-1.13-$(date +'%y%m%d-%s').zip
+PACKNAME=IncediblePack
+GAMEVERSION=1.14
+DEST=$PACKNAME-$GAMEVERSION-$(date +'%y%m%d-%s').zip
 RSOURCEPACKS=$HOME/.minecraft/resourcepacks
 ( cd resourcepack && zip -r ../$DEST . )
 if [ -d $RSOURCEPACKS/ ]; then
