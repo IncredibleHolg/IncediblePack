@@ -1,0 +1,26 @@
+blast furnace
+cartography table
+lectern
+loom
+lodestone
+respawn anchor
+campfire
+pots
+Villager model completely changed, mix old faces and faithfull
+composter
+target block (faithfull)
+flowers
+	cornflower
+	lilly of the valey
+	wither rose
+honeycomb ( faithfull)
+honey (winthor)
+slime (winthor)
+nylium (winthor)
+nether mushrooms ( faithfull)
+nether shrubs ( faithfull)
+crimson/warped_hyphae
+wart blocks recolor to warped
+
+bee	hive
+bee	nest
