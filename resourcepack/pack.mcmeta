@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 94.1,
-    "description": "64x64 Texture Pack, update 2025-12-31.0"
+    "description": "64x64 Texture Pack, update 2025-12-31.0",
+    "min_format": 68,
+    "max_format": 75
   }
 }
